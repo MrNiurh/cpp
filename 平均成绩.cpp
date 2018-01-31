@@ -11,9 +11,9 @@ int main()
     cout<<"~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~"<<endl;
     cout<<"~                                     ~"<<endl;
     cout<<"~                                     ~"<<endl;
-    cout<<"~      欢迎使用平均分计算程序         ~"<<endl;
+    cout<<"~      欢迎使用平均分计算程序            ~"<<endl;
     cout<<"~                                     ~"<<endl;
-    cout<<"~           版本：1.0                 ~"<<endl;
+    cout<<"~           版本：1.0                  ~"<<endl;
     cout<<"~                                @ @  ~"<<endl;
     cout<<"~                                 -   ~"<<endl;
     cout<<"~                                     ~"<<endl;
